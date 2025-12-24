@@ -1,0 +1,2 @@
+# Dynamic-Classification-of-S-P-500-Stocks-Using-Distributed-Computing-and-Fundamental-Ratios
+This project addresses the challenge of classifying S&amp;P 500 stocks into five benchmark-relative performance tiers using a combination of financial ratios and macroeconomic indicators. To handle the scale and complexity of 146,165 structured records, a distributed machine learning pipeline is developed using Apache Spark on Google Cloud Dataproc. 
